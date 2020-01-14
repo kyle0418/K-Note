@@ -15,3 +15,5 @@ Settings to store last settings;
 **1/14/2020**
 
 Add the hghlight of comment "//"
+
+Get the encoding
