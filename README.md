@@ -1,5 +1,5 @@
 # K-Note
-Glad you test and submit bugs
+Glad you test it and submit bugs
 
 BUG List:
 
