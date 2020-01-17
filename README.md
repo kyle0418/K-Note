@@ -1,11 +1,11 @@
 # K-Note
-欢迎测试并提交BUG
+Glad you test and submit bugs
 
-历史BUG：
+BUG List:
 
-窗口最大化，文本框布局出错（解决方法：判断最大化，强制设置位置大小）【已修复】
+When the window maximized, and the text box layout is terrible (Solution: determine the maximum, force the position size) [Fixed]
 
-拖拽文件读取，关闭时保存报错（原因：filename被置为空值）【已修复】
+Drag and drop files to read, an error occured when save closing  (reason: filename is set to null) [Fixed]
 
-取消文件选择时报错 (解决方法：else未选择情况)【已修复】
+Error when canceling file selection (Solution: else not selected) [Fixed]
 
