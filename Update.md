@@ -17,3 +17,9 @@ Settings to store last settings;
 Add the hghlight of comment "//"
 
 Get the encoding
+
+**1/30/2020**
+
+Multi-language (English/Chinese)
+
+Published by ClickOnce
