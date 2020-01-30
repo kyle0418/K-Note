@@ -20,3 +20,5 @@ Fix hot keys listview column width
 Add ClickOnce certificate
 
 Optimize the value-passing method (currently create a new object)
+
+File association？
