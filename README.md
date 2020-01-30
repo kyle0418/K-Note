@@ -1,7 +1,7 @@
 # K-Note
 Glad you test it and submit bugs
 
-BUG List:
+# BUG List:
 
 When the window maximized, and the text box layout is terrible (Solution: determine the maximum, force the position size) **[Fixed]**
 
@@ -13,7 +13,7 @@ Multi-language resx can't be contained in the exe (Solution: published by ClickO
 
 
 
-**Need to achieve**
+# Need to achieve
 
 Fix hot keys listview column width
 
