@@ -17,6 +17,8 @@ Multi-language resx can't be contained in the exe (Solution: published by ClickO
 
 Fix hot keys listview column width
 
+Modify hot keys form Text
+
 Add ClickOnce certificate
 
 Optimize the value-passing method (currently create a new object)
