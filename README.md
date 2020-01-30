@@ -11,3 +11,9 @@ Error when canceling file selection (Solution: else not selected) **[Fixed]**
 
 Multi-language resx can't be contained in the exe (Solution: published by ClickOnce (Application File... -> contain /zh-CN/K-Note.resources.dll.deploy)) **[Fixed]**
 
+
+
+**Need to achieve**
+Fix hot keys listview column width
+Add ClickOnce certificate
+Optimize the value-passing method (currently create a new object)
