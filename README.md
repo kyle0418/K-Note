@@ -16,5 +16,3 @@ Multi-language resx can't be contained in the exe (Solution: published by ClickO
 # Need to achieve
 
 Optimize the value-passing method (currently create a new object)
-
-File association？
