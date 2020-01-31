@@ -15,10 +15,6 @@ Multi-language resx can't be contained in the exe (Solution: published by ClickO
 
 # Need to achieve
 
-Fix hot keys listview column width
-
-Modify hot keys form Text
-
 Optimize the value-passing method (currently create a new object)
 
 File association？
